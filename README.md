@@ -1,2 +1,0 @@
-# Krosovok
-plugin krosovokDeath
